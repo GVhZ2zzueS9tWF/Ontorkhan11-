@@ -1,0 +1,15 @@
+{
+  "name": "mr-rex-panel-bot",
+  "version": "1.0.0",
+  "description": "ONTOR Panel — single file Node.js panel (ontor dependencies)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
